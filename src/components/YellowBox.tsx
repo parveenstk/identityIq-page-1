@@ -1,18 +1,21 @@
-function YellowBox({ content }: { content: string | string[] }) {
+
+function Yellowbox({ content, className }: { content: string | string[], className?: string }) {
+
     return (
-        <div className="bg-[#fff643] text-center italic p-4 border my-4 sm:my-10 w-fit md:w-full">
-            {Array.isArray(content) && content.length ? (
-                content.map((text, index) => (
-                    <div key={index}>
-                        <p dangerouslySetInnerHTML={{ __html: text }} className="text-lg leading-5.5"></p>
-                    </div>
-                )))
-                : (
+        <>
+            <div className={`bg-[#fff643] border sm:p-5 text-2xl text-center my-1 sm:my-7 ${className}`}>
+                {Array.isArray(content) && content.length ? (
+                    content.map((text, index) => (
+                        <p key={index} dangerouslySetInnerHTML={{ __html: text }}></p>
+                    ))
+                ) : (
                     <p>{content}</p>
-                )
-            }
-        </div>
+                )}
+            </div>
+        </>
+
+
     )
 }
 
-export default YellowBox
+export default Yellowbox

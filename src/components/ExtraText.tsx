@@ -1,27 +1,20 @@
-import Text from "./Text";
+interface Content {
+    title: string | string[];
+    text: string[];
+};
 
-function ExtraText({ data }: { data: { title: string | string[], style?: string; text?: string; content: string | string[] } }) {
-
+function ExtraText({ content, className }: { content: Content, className?: string }) {
     return (
+        <div className={`flex flex-col gap-1 mb-4 sm:mb-14 text-center sm:text-left ${className}`}>
+            {Array.isArray(content.title) && content.title.length > 0 ? (
+                content.title.map((data, i) => <h1 key={i} className="text-3xl sm:text-6xl font-bold" dangerouslySetInnerHTML={{ __html: data }} ></h1>)
+            ) : (<h1 className="mb-0.5 sm:mb-0 text-3xl font-bold" dangerouslySetInnerHTML={{ __html: content.title }} ></h1>)}
 
-        <div>
-            {Array.isArray(data.title) && data.title.length ? (
-                data.title.map((text, index) => (
-                    <div className=" grid place-content-center sm:block" key={index}>
-                        <h2 dangerouslySetInnerHTML={{ __html: text }} className={`sm:text-6xl text-3xl leading-[70%] sm:leading-12 font-bold mb-4 w-fit ${data.style}`}></h2>
-                    </div>
-
-                )))
-                : (
-                    <h2 className={`${data.text ? data.text : 'text-3xl' } sm:text-4xl font-bold mb-4 w-fit ${data.style}`} >{data.title}</h2>
-                )
-            }
-            < Text className="mb-16" content={data.content} />
-        </div >
-
-        
-
-    );
+            {content.text.map((text, index) => (
+                <p key={index} className="leading-5 sm:leading-7 text-lg sm:text-xl" dangerouslySetInnerHTML={{ __html: text }}></p>
+            ))}
+        </div>
+    )
 }
 
-export default ExtraText;
+export default ExtraText
