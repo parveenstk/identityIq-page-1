@@ -2,7 +2,7 @@
     "heading1": {
         "title": "So How Can You Protect Yourself?",
         "style": "italic bg-[#fff643] mx-auto sm:mx-0",
-        "text": "text-2xl", 
+        "text": "text-xl sm:text-2xl",
         "content": [
             "Face it, identity theft sucks.",
             "From the financial losses...",
@@ -16,34 +16,35 @@
         ]
     },
     "heading2": {
-        "title": "That's Why There's Aura",
+        "title": "That's Why There's IdentityIQ",
         "style": "mx-auto sm:mx-0 italic",
         "content": [
-            "<a href='https://buy.aura.com/best-fraud-protection' style='font-weight: 700; text-decoration: underline; color:blue; font-size:25px'>Aura Identity Theft Protection</a>",
-            "is the best and easiest way to protect yourself...",
-            "Safeguarding your personal and financial info…",
-            "By providing 24/7/365 monitoring",
-            "of your most sensitive data.",
+            "<a href='https://protect.identityiq.com/idp/idprotect/ai-scams-single/' style='font-weight: 700; text-decoration: underline; color:blue; font-size:25px'>IdentityIQ Identity Protection and Financial Intelligence</a>",
+            "is the best and easiest way",
+            "to protect your identity…",
+            "While also strengthening your",
+            "long-term financial health.",
             "It’s everything you need",
             "to keep hackers <b>out...</b>",
-            "And you <b>in control.</b>",
-            "<p>It's powerful yet easy to use.</p>"
+            "And <b><u>you</u></b> in control of your private data.",
+            "So powerful... yet simple to use."
         ]
     },
     "heading3": {
         "title": [
-            "Protects Your Identity",
-            "Better Than Anyone",
-            "Else in the Industry"
+            "In an Overexposed World,",
+            "IdentityIQ Protects",
+            "Your Identity"
         ],
         "style": "",
         "content": [
-            "Every 31 seconds, an American is a victim of identity theft.",
+            "Every 31 seconds, an American",
+            "is a victim of identity theft.",
             "That means...",
-            "Before you finish this…",
+            "Before you finish reading this…",
             "Your identity could be compromised.",
-            "<b><i>Multiple times...</i></b>",
-            "That all disappears with Aura.",
+            "<b><i>Multiple times.</i></b>",
+            "But not with IdentityIQ.",
             "Here’s how:"
         ]
     },
@@ -51,85 +52,119 @@
         "title": "All-in-One Protection",
         "style": "mx-auto sm:mx-0",
         "content": [
-            "Aura provides a comprehensive digital security solution that includes:",
-            "<ul style='display: inline-block;'><li style='list-style-type: disc; margin-left: 1.9rem;'>Identity theft protection</li></ul>",
-            "<ul style='display: inline-block;'><li style='list-style-type: disc; margin-left: 1.9rem;'>$1M Identity theft insurance</li></ul>",
-            "<ul style='display: inline-block;'><li style='list-style-type: disc; margin-left: 1.9rem;'>3-bureau credit monitoring</li></ul>",
-            "<ul style='display: inline-block;'><li style='list-style-type: disc; margin-left: 1.9rem;'>Antivirus software</li></ul>",
-            "<ul style='display: inline-block;'><li style='list-style-type: disc; margin-left: 1.9rem;'>VPN services</li></ul>",
-            "<ul style='display: inline-block;'><li style='list-style-type: disc; margin-left: 1.9rem;'>Password management</li></ul>",
-            "<ul style='display: inline-block;'><li style='list-style-type: disc; margin-left: 1.9rem;'>And much more...</li></ul>"
+            "IdentityIQ provides a comprehensive digital security solution that includes:",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Identity theft protection</li>",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>$1M+ Identity theft insurance</li>",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>VPN & antivirus</li>",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Synthetic ID theft protection</li>",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Credit reports & scores</li>",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>3-Bureau credit monitoring</li>",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Rent & utility payment reporting</li>",
+            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>And much more...</li>"
         ]
     },
     "heading5": {
-        "title": "Fastest Fraud Alerts",
+        "title": "Personal Credit & Finance",
         "style": "mx-auto sm:mx-0",
         "content": [
-            "Up to <b>250x</b> the industry standard.",
-            "With direct connections <br> to all 3 major credit bureaus...",
-            "Aura delivers fraud alerts <i><u>in seconds.</u></i>",
-            "Potential threats can be neutralized...",
-            "Before they even get going."
+            "24/7 monitoring of your",
+            "online data for fraud,",
+            "with real-time alerts informing you",
+            "of changes to your credit report.",
+            "It also sends you <b>personalized</b>",
+            "credit analysis and <b>recommended</b>",
+            "actions to boost your credit and",
+            "financial wellness."
         ]
     },
     "heading6": {
-        "title": "Superior Family Plan",
+        "title": "$1M Identity Theft Insurance",
         "style": "mx-auto sm:mx-0",
         "content": [
-            "They cover up to 5 adults and all your kids...",
-            "Providing features like:",
-            "<ul><li style='list-style-type: disc; margin-left: 1.9rem;'>Child identity monitoring</li></ul>",
-            "<ul><li style='list-style-type: disc; margin-left: 1.9rem;'>Parental controls</li></ul>",
-            "<ul><li style='list-style-type: disc; margin-left: 1.9rem;'>Safe Gaming alerts</li></ul>",
-            "It's best-in-class coverage...",
-            "So your loved ones can enjoy",
-            "their digital world...",
-            "While <b>you</b> enjoy peace of mind."
+            "Get back to normal faster",
+            "with identity theft insurance",
+            "that reimburses you",
+            "for losses like stolen funds, lost wages,",
+            "court fees, and more.",
+            "It’s robust coverage for <b>peace of mind</b>",
+            "if something does happen."
         ]
     },
     "heading7": {
-        "title": "$1M Identity Theft Insurance",
+        "title": "Dark Web Security",
+        "style": "mx-auto sm:mx-0",
         "content": [
-            "Each adult member on an Aura plan",
-            "is covered by...",
-            "Up to <b>$1 million</b> in identity theft insurance.",
-            "Family plans offer a total of up to <u>$5 million.</u>",
-            "It's robust coverage...",
-            "for peace of mind no matter what happens."
+            "We search the creepiest corners",
+            "of the internet…",
+            "So you don't have to.",
+            "We're on the lookout for your data",
+            "in real time...",
+            "Continuously tracking, detecting,",
+            "and alerting you of threats",
+            "as they happen.",
+            "Together with you, we act",
+            "immediately to <b>prevent</b>",
+            "<b>criminals</b> from exploiting",
+            "your stolen or leaked data."
         ]
     },
     "heading8": {
-        "title": "Transparent and Affordable",
+        "title": "Improves Financial Wellness",
+        "style": "mx-auto sm:mx-0",
         "content": [
-            "Aura offers clear, straightforward pricing...",
-            "Without hidden fees",
-            "Or automatic increases.",
-            "For example, Aura's yearly plan for adults...",
-            "<i><u>doesn’t increase upon renewal.</u></i>",
-            "Compare that with others in the industry...",
-            "And the choice to protect yourself...",
-            "Is crystal clear."
+            "IdentityIQ combines advanced tools",
+            "with the power of AI",
+            "to help build, protect, and optimize",
+            "your credit and overall financial wellness.",
+            "This includes transforming",
+            "recurring actions like",
+            "paying rent and utilities on time",
+            "into <b>credit-building</b> opportunities."
         ]
     },
     "heading9": {
-        "title": "Highly Rated Service",
+        "title": "Device Security",
         "style": "mx-auto sm:mx-0",
         "content": [
-            "Forbes, TechRadar, USNews.",
-            "They're among the many who call Aura the",
-            "<b>Best, most reliable identity theft protection service...</b>",
-            "You can find to safeguard your personal data."
+            "No matter what device you're on:",
+            "laptop, tablet, smartphone, etc....",
+            "IdentityIQ protects it with VPN",
+            "and antivirus software.",
+            "This means you and your family",
+            "can <b>enjoy</b> secure, private browsing...",
+            "<u><i>without</i></u> worry of fatal cyberattacks."
         ]
     },
     "heading10": {
-        "title": "Aura ensures peace of mind…",
+        "title": "Award-winning Service",
+        "style": "mx-auto sm:mx-0",
         "content": [
-            "By proactively protecting against...",
-            "Online fraud, data breaches,",
-            "and identity theft.",
-            "Why pay for different services",
-            "to protect all your data…",
-            "When the <b>one & only Aura</b> does it all?"
+            "Our award-winning, U.S.-based,",
+            "white-glove identity restoration service",
+            "<b>takes the stress</b> out of recovery.",
+            "We handle every step of the process…",
+            "from disputing fraudulent charges",
+            "to restoring your credit.",
+            "This allows you to focus on <b>what matters</b>",
+            "while we work tirelessly to restore",
+            "your name, credit, and peace of mind."
+        ]
+    },
+    "heading11": {
+        "title": "Peace of Mind with IdentityIQ...",
+        "style": "mx-auto sm:mx-0",
+        "content": [
+            "<b>Let’s count the ways:</b>",
+            "Protects against online fraud,",
+            "data breaches, and identity theft.",
+            "Improves and maintains",
+            "your financial health.",
+            "Offers legal advice and resources",
+            "from simple wills to family law.",
+            "Even provides junk mail opt out and",
+            "24/7 roadside assistance.",
+            "Helps you live safe and secure…",
+            "Online or offline."
         ]
     }
 }

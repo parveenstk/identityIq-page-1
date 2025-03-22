@@ -8,14 +8,13 @@ function CommentBox() {
                     <img className="w-20" src={img} alt="poster" />
 
                     <div key={index}>
-                        <h1 className="text-[1.8rem] font-semibold">{text.heading}</h1>
-                        
+                        <h1 className="text-[1.4rem] sm:text-[1.8rem] font-semibold">{text.heading}</h1>
                         {Array.isArray(text.content) && text.content.length > 0 ?
                             text.content.map((data, index) => (
-                                <p key={index} className="text-xl">{data}</p>
+                                <p key={index} className="text-lg sm:text-xl">{data}</p>
                             ))
                             : (
-                                <p className="text-xl">{text.content}</p>
+                                <p className="text-lg sm:text-xl">{text.content}</p>
                             )}
                     </div>
                 </div>
