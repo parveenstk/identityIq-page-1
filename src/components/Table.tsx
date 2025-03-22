@@ -1,9 +1,10 @@
-import { tableData } from "../data/helper";
+import { tableData, contentData } from "../../data/helper";
+import Text from "./Text";
 
 function Table() {
     return (
         <>
-            <h1 className="text-4xl font-bold text-center py-4">Aura vs. Others</h1>
+        <h1 className="text-4xl font-bold text-center py-4">Aura vs. Others</h1>
             <table className="table-auto border-collapse w-full">
                 <tbody className="block bg-[#fafafa] px-[5px] sm:px-[20px] pt-[10px] sm:pt-[60px] pb-[8px] sm:pb-[30px]">
                     {tableData.map((row, rowIndex) => (
@@ -37,6 +38,9 @@ function Table() {
                     ))}
                 </tbody>
             </table>
+
+            <h1 className="text-5xl font-bold mt-10 mb-6">Without Aura... <br/>There could be hell to pay</h1>
+            <Text margin={false} content={contentData} />
         </>
     );
 }
