@@ -1,8 +1,13 @@
-import { userComments } from "../../data/helper"
+import { contentData, userComments } from "../../data/helper"
+import Text from "./Text"
 
 function CommentBox() {
     return (
         <div>
+            <h1 className="text-3xl sm:text-5xl font-bold sm:mt-10 mb-2 sm:mb-6">Without Aura... <br />There could be hell to pay</h1>
+            <Text margin={false} content={contentData} />
+
+
             {userComments.map(({ text, img }, index) => (
                 <div className="flex flex-col sm:flex sm:flex-row sm:gap-4 items-center bg-[#efefef] p-4 sm:p-8 border border-gray-300 rounded-lg mb-4" key={index}>
                     <img className="w-20" src={img} alt="poster" />

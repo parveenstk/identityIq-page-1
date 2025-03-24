@@ -90,6 +90,9 @@ function Body() {
                     <ExtraText key={index} data={text} />
                 ))}
                 <Table />
+                <div className="sm:pt-5">
+                    <img src="/images/10.webp" alt="hacker-img" width={736} />
+                </div>
                 <CommentBox />
                 <GuaranteeBox className="py-4" />
                 <UserReviews />

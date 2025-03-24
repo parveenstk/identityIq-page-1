@@ -374,6 +374,7 @@ export const links = [
     "./images/c-2.webp",
     "./images/c-3.webp",
     "./images/c-4.webp",
+    "./images/c-5.webp"
 ]
 
 export const faq = [

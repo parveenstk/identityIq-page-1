@@ -27,9 +27,6 @@ function Table() {
                     ))}
                 </tbody>
             </table>
-
-            <h1 className="text-3xl sm:text-5xl font-bold sm:mt-10 mb-2 sm:mb-6">Without Aura... <br />There could be hell to pay</h1>
-            <Text margin={false} content={contentData} />
         </>
     );
 }
