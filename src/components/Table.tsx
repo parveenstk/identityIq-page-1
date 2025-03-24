@@ -1,5 +1,4 @@
-import { tableData, contentData } from "../../data/helper";
-import Text from "./Text";
+import { tableData } from "../../data/helper";
 
 function Table() {
     return (
