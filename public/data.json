@@ -53,14 +53,14 @@
         "style": "mx-auto sm:mx-0",
         "content": [
             "IdentityIQ provides a comprehensive digital security solution that includes:",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Identity theft protection</li>",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>$1M+ Identity theft insurance</li>",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>VPN & antivirus</li>",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Synthetic ID theft protection</li>",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Credit reports & scores</li>",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>3-Bureau credit monitoring</li>",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Rent & utility payment reporting</li>",
-            "<li style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>And much more...</li>"
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Identity theft protection</li>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>$1M+ Identity theft insurance</li>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>VPN & antivirus</li>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Synthetic ID theft protection</li>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Credit reports & scores</li>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>3-Bureau credit monitoring</li>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>Rent & utility payment reporting</li>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600'>And much more...</li>"
         ]
     },
     "heading5": {
@@ -78,6 +78,21 @@
         ]
     },
     "heading6": {
+        "title": "Superior Family Plan",
+        "style": "mx-auto sm:mx-0",
+        "content": [
+            "Protects your fmaily with features like:",
+            "<li class='line-Height' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600; line-height: 12px;'>Social media monitoring</li>",
+            "<li class='line-Height' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600;'>Parental controls</li>",
+            "<li class='line-Height' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600; line-height: 12px;'>Safe Gaming alerts</li>",
+            "<li class='line-Height' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-weight:600;'>And more</li>",
+            "in identity theft insurance for each dependent.",
+            "So your loved ones can enjoy",
+            "their digital world...",
+            "While you enjoy peace of mind."
+        ]
+    },
+    "heading7": {
         "title": "$1M Identity Theft Insurance",
         "style": "mx-auto sm:mx-0",
         "content": [
@@ -90,7 +105,7 @@
             "if something does happen."
         ]
     },
-    "heading7": {
+    "heading8": {
         "title": "Dark Web Security",
         "style": "mx-auto sm:mx-0",
         "content": [
@@ -108,7 +123,7 @@
             "your stolen or leaked data."
         ]
     },
-    "heading8": {
+    "heading9": {
         "title": "Improves Financial Wellness",
         "style": "mx-auto sm:mx-0",
         "content": [
@@ -122,7 +137,7 @@
             "into <b>credit-building</b> opportunities."
         ]
     },
-    "heading9": {
+    "heading10": {
         "title": "Device Security",
         "style": "mx-auto sm:mx-0",
         "content": [
@@ -135,7 +150,7 @@
             "<u><i>without</i></u> worry of fatal cyberattacks."
         ]
     },
-    "heading10": {
+    "heading11": {
         "title": "Award-winning Service",
         "style": "mx-auto sm:mx-0",
         "content": [
@@ -150,21 +165,21 @@
             "your name, credit, and peace of mind."
         ]
     },
-    "heading11": {
+    "heading12": {
         "title": "Peace of Mind with IdentityIQ...",
         "style": "mx-auto sm:mx-0",
         "content": [
             "<b>Let’s count the ways:</b>",
-            "Protects against online fraud,",
-            "data breaches, and identity theft.",
-            "Improves and maintains",
-            "your financial health.",
-            "Offers legal advice and resources",
-            "from simple wills to family law.",
-            "Even provides junk mail opt out and",
-            "24/7 roadside assistance.",
-            "Helps you live safe and secure…",
-            "Online or offline."
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-size: 20px;'><b>Protects</b> against online fraud,</li>",
+            "<p class='alignment text-Size' style='font-size: 20px; margin-left: 3.2rem;'>data breaches, and identity theft.</p>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-size: 20px;'>Improves and maintains</li>",
+            "<p class='alignment text-Size' style='font-size: 20px; margin-left: 3.2rem;'>your <b>financial health.</b></p>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-size: 20px;'>Offers <b>legal advice</b> and resources</li>",
+            "<p class='alignment text-Size' style='font-size: 20px; margin-left: 3.2rem;'>from simple wills to family law.</p>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-size: 20px;'>Even provides <b>junk mail opt out </b>and</li>",
+            "<p class='alignment text-Size' style='font-size: 20px; margin-left: 3.2rem;'>24/7 <b>roadside assistance.</b></p>",
+            "<li class='text-Size' style='list-style-type: disc; margin-left: 1.9rem; text-align:left; font-size: 20px;'>Helps you live safe and secure…</li>",
+            "<p class='alignment text-Size' style='font-size: 20px; margin-left: 3.2rem;'><b>Online or offline.</b></p>"
         ]
     }
 }

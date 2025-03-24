@@ -1,6 +1,21 @@
 @import "tailwindcss";
 
 
-/* .list-disc {
-    list-style-type: disc;
-} */
+@media screen and (max-width: 767px) {
+
+    .alignment {
+        margin-left: 0px !important;
+        margin-left: 0px !important;
+        margin-left: 0px !important;
+        margin-left: 0px !important;
+        margin-left: 0px !important;
+    }
+
+    .text-Size {
+        font-size: 18px !important;
+    }
+
+    .line-Height {
+        line-height: 25px !important;
+    }
+}

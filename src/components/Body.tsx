@@ -89,13 +89,13 @@ function Body() {
                 {Object.values(textContent).map((text, index) => (
                     <ExtraText key={index} data={text} />
                 ))}
-                <Table />
-                <CommentBox />
-                <GuaranteeBox className="py-4" />
-                <UserReviews />
-                <GuaranteeBox className="py-4" />
-                <GuaranteeTag />
-                <GuaranteeBox className="py-4" />
+                {/* <Table /> */}
+                {/* <CommentBox /> */}
+                {/* <GuaranteeBox className="py-4" /> */}
+                {/* <UserReviews /> */}
+                {/* <GuaranteeBox className="py-4" /> */}
+                {/* <GuaranteeTag /> */}
+                {/* <GuaranteeBox className="py-4" /> */}
             </div>
 
         </div>
