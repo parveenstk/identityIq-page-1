@@ -8,7 +8,8 @@ import Text from "./Text";
 import YellowBox from "./YellowBox";
 import GuaranteeBox from "./GuaranteeBox";
 import UserReviews from "./UserReviews";
-import GuaranteeTag from "./GuaranteeTag";
+import FAQs from "./FAQs";
+import Logo from "./Logo";
 
 interface TextContent { title: string | string[], style?: string; content: string | string[] }
 
@@ -90,14 +91,15 @@ function Body() {
                     <ExtraText key={index} data={text} />
                 ))}
                 <Table />
-                <div className="sm:pt-5">
-                    <img src="/images/10.webp" alt="hacker-img" width={736} />
+                <div className="sm:pt-5 w-max-full">
+                    <img src="/images/10.webp" alt="hacker-img" />
                 </div>
                 <CommentBox />
                 <GuaranteeBox className="py-4" />
                 <UserReviews />
+                <Logo />
                 <GuaranteeBox className="py-4" />
-                <GuaranteeTag />
+                <FAQs />
                 <GuaranteeBox className="py-4" />
             </div>
 

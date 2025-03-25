@@ -14,6 +14,7 @@ export default function IdentityTheftInfo() {
 
     return (
         <>
+        <h1 className="text-3xl sm:text-4xl font-semibold text-center py-6 sm:py-14">Frequently Asked Questions</h1>
             {faq.map((data, index) => (
                 <div key={index} className="mb-2 sm:mb-4">
                     <button className="rounded-t-lg w-full py-3 sm:text-2xl text-xl text-[#ffffff] font-bold bg-[#9e7b1d] text-left pl-6 cursor-pointer"

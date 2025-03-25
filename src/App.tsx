@@ -1,5 +1,5 @@
 import "./assets/css/global.css";
-import Auratoday from "./components/Auratoday";
+import IdentityIQ from "./components/IdentityIQ";
 import Heading from "./components/Heading";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
@@ -14,7 +14,7 @@ function App() {
           <Body />
         </div>
         <div className="sticky top-0 sm:mb-0 mb-4">
-          <Auratoday />
+          <IdentityIQ />
         </div>
       </div>
       <Footer />
