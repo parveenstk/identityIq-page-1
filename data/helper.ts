@@ -420,3 +420,25 @@ export const faq = [
         answer: "Identity theft restoration helps recover your identity by resolving fraud, restoring credit, and reclaiming your financial health. It means you don't have to resolve the situation on your own, and it removes the stress of recovering your identity and assets if you’re a victim of identity theft or financial fraud. Your white glove restoration agent will work with you to create a plan to help prevent damages and losses - and recover existing ones - while dealing with credit bureaus and federal institutions."
     }
 ]
+
+export const sourceData = [
+    {
+        link: "https://www.security.org/digital-safety/credit-card-fraud-report/",
+        text: "https://www.security.org/digital-safety/credit-card-fraud-report/"
+    },
+
+    {
+        link: "https://www.consumerreports.org/health/medical-identity-theft-a1699327549/",
+        text: "https://www.consumerreports.org/health/medical-identity-theft-a1699327549/"
+    },
+
+    {
+        link: "https://www.taxpayeradvocate.irs.gov/news/nta-blog/identity-theft-victims-are-waiting-nearly-two-years-to-receive-their-tax-refunds/2024/06/",
+        text: "https://www.taxpayeradvocate.irs.gov/news/nta-blog/identity-theft-victims-are-waiting-nearly-two-years-to-receive-their-tax-refunds/2024/06/"
+    },
+
+    {
+        link: "https://legal.thomsonreuters.com/blog/synthetic-identity-fraud-what-is-it-and-how-to-combat-it/",
+        text: "https://legal.thomsonreuters.com/blog/synthetic-identity-fraud-what-is-it-and-how-to-combat-it/"
+    },
+]

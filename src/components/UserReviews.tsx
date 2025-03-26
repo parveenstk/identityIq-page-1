@@ -1,4 +1,4 @@
-import { links, userReviwsData } from "../../data/helper"
+import { userReviwsData } from "../../data/helper"
 
 function UserReviews() {
     return (
@@ -20,8 +20,6 @@ function UserReviews() {
                         <p className="sm:pl-6 text-[#ffba13] text-2xl">★★★★★</p>
                     </div>
                 </div>)}
-
-            
         </>
     )
 }

@@ -13,7 +13,7 @@ function App() {
         <div className="px-3 max-w-full sm:w-7/12 sm:px-0 mx-auto sm:mx-0">
           <Body />
         </div>
-        <div className="sticky top-0 sm:mb-0 mb-4">
+        <div className="sticky top-0 sm:mb-0 mb-4 ">
           <IdentityIQ />
         </div>
       </div>

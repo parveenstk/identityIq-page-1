@@ -10,6 +10,7 @@ import GuaranteeBox from "./GuaranteeBox";
 import UserReviews from "./UserReviews";
 import FAQs from "./FAQs";
 import Logo from "./Logo";
+import Sources from "./Sources";
 
 interface TextContent { title: string | string[], style?: string; content: string | string[] }
 
@@ -101,6 +102,7 @@ function Body() {
                 <GuaranteeBox className="py-4" />
                 <FAQs />
                 <GuaranteeBox className="py-4" />
+                <Sources />
             </div>
 
         </div>
